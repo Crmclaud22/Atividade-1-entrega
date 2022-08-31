@@ -1,1 +1,3 @@
 Cria rotina de coleta de dados.
+
+Inicio da coleta de dados.
